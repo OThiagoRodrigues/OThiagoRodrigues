@@ -1,8 +1,7 @@
-### Olá, mundo! 👋 Eu sou o Thiago Rodrigues
+### Olá, mundo! Eu sou o Thiago Rodrigues
 
-- 🌱 Eu estou aprendendo: Desenvolvimento Front-End
-- 📫 Contate me no <a href="https://www.instagram.com/thiagueirasantos/">instagram</a>
-- 😄 Pronomes: Ele/Dele
+- Eu estou aprendendo: Desenvolvimento Front-End na Alura
+- Contate me no <a href="https://www.instagram.com/thiagueirasantos/">instagram</a>
 
  <div>
   <a href="https://www.instagram.com/thiagueirasantos/">

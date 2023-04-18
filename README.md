@@ -1,4 +1,4 @@
-### Olá, mundo! Eu sou o Thiago Rodrigues
+### Olá, mundo! Me chamo Thiago Rodrigues
 
 - Eu estou aprendendo: Desenvolvimento Front-End na Alura
 - Contate me no <a href="https://www.instagram.com/thiagueirasantos/">instagram</a>
